@@ -61,21 +61,12 @@ The dashboard includes:
 
 Key visualizations include:
 - Sentiment distribution by bank
-- Regional satisfaction heat maps
+- Regional satisfaction map
 - Topic modeling insights
 - Trend analysis over time
 - Review volume by location
 - Rating distributions
 
-## 🧪 Running Tests
-
-```bash
-# Run all tests
-pytest
-
-# Run specific test file
-pytest tests/test_sentiment_analysis.py
-```
 
 ## 📝 License
 
@@ -93,6 +84,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📫 Contact
 
-Your Name - [@yourusername](https://github.com/yourusername)
+[@IzeriaAbdellatif](https://github.com/yourusername) , [@MedTahiri](https://github.com/MedTahiri)
 
 Project Link: [https://github.com/yourusername/Bank-Reviews-Morocco](https://github.com/yourusername/Bank-Reviews-Morocco)
